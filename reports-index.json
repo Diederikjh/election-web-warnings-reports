@@ -1,0 +1,18 @@
+{
+  "reports": [
+    {
+      "path": "2026-local-elections-first",
+      "websites": 8,
+      "attempts": 10,
+      "started_at": "2026-11-03T21:07:22.456300+00:00",
+      "url": "https://diederikjh.github.io/election-web-warnings-reports/2026-local-elections-first/"
+    },
+    {
+      "path": "2026-local-elections-voting-day",
+      "websites": 8,
+      "attempts": 27,
+      "started_at": "2026-11-04T05:54:57.468390+00:00",
+      "url": "https://diederikjh.github.io/election-web-warnings-reports/2026-local-elections-voting-day/"
+    }
+  ]
+}
